@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnAgregar
+id imgCamiseta
+id recyclerCamisetas
+id txtCarrito
+id txtNombre
+id txtPrecio
+layout activity_carrito
+layout activity_main
+layout item_camiseta
+menu menu_carrito
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.VentaDeCamisetas
+style Theme.VentaDeCamisetas
+xml backup_rules
+xml data_extraction_rules
